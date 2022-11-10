@@ -1,3 +1,0 @@
-compile:gcc -o run run.c -Wall -I/usr/include/lua5.3 -llua5.2
-cp:cp run ~/.local/bin/
-sup:echo sup
